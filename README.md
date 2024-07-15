@@ -76,6 +76,8 @@ It will download this project.
 Step 5. Run the project Open a terminal and navigate to project directory. Install selenium as a development dependency by running:
 
 ![Screenshot 2024-07-15 171036](https://github.com/user-attachments/assets/95f98d74-eff4-4191-a728-769d0af16b43)
+![Screenshot 2024-07-15 171007](https://github.com/user-attachments/assets/92f946d1-cb48-42a6-a794-533221999181)
+
 ![image](https://github.com/user-attachments/assets/32bd8ef8-09dd-4b3c-b8d2-bd3054ed9a5b)
 
 
